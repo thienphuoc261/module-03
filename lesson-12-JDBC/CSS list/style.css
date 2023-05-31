@@ -1,0 +1,27 @@
+ul.a {
+    list-style-type: circle;
+    list-style-position:outside;
+    background: #ff9999;
+    padding: 20px;
+}
+
+ul.b {
+    list-style-type: square;
+    list-style-image: url('https://james.codegym.vn/pluginfile.php/1/theme_remui/logomini/1637071366/icon-small.png');
+    list-style-position:inside;
+    background: #ff9999;
+    padding: 20px;
+}
+
+ol.c {
+    list-style-type: upper-alpha;
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+}
+
+ol.d {
+    list-style-type: lower-alpha;
+    background: #cce5ff;
+    margin: 5px;
+}
